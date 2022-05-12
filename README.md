@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrustiC
 - 👀 I’m interested in Full Stack Development, Cloud Computing
-- 🌱 I’m currently learning REACT and creating full stack applications
+- 🌱 I’m currently learning REACT, SpringBoot, Hibernate and creating full stack applications
 - 📫 How to reach me email: chheda.sh@northeastern.edu
 
 <!---
